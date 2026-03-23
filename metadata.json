@@ -1,0 +1,5 @@
+{
+  "name": "OmniSandbox AI",
+  "description": "An AI-powered sandbox that generates production-grade, full-stack applications with live preview and code editing capabilities.",
+  "requestFramePermissions": []
+}
